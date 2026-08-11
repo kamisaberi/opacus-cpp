@@ -1,7 +1,3 @@
-Here is a complete, publication-ready **`README.md`** for **`opacus-cpp`**. It includes the architectural overview, mathematical formulation of DP-SGD, performance benchmark comparison tables, build instructions, and C++ usage examples.
-
-***
-
 # `opacus-cpp`
 
 > **High-Performance C++20 & Fused CUDA Engine for Differentially Private Deep Learning (DP-SGD)**
